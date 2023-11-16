@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Привет, я Иван 👋</h1>
-  <h3>и так уж вышло, что я пишу софт</h3>
+  <h3>так уж вышло, что я пишу софт</h3>
   <p></p>
   <a href="https://t.me/ivan_noskovvv"><img src="https://badgen.net/badge/icon/телега?icon=telegram&label" alt="telegram"/></a>
   <a href="https://habr.com/ru/users/IvanNoskov"><img src="https://badgen.net/badge/icon/статейки?icon=wiki&label" alt="habr"/></a>
@@ -39,3 +39,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="40"/>
 </p>
+
+<div id="stat" align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanoskov&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanoskov&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanoskov&theme=github_dark)
+</div>
+
