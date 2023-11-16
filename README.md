@@ -43,6 +43,7 @@
 <h1>Статистика</h1>
 
 <div id="stat" align="center">  
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanoskov&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanoskov&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ivanoskov&theme=github_dark)
