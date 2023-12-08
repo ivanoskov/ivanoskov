@@ -4,6 +4,9 @@
   <p></p>
   <a href="https://t.me/ivan_noskovvv"><img src="https://badgen.net/badge/icon/телега?icon=telegram&label" alt="telegram"/></a>
   <a href="https://habr.com/ru/users/IvanNoskov"><img src="https://badgen.net/badge/icon/статейки?icon=wiki&label" alt="habr"/></a>
+  <p></p>
+  <p>⬇️ Вот в чём я разбираюсь или учусь разбираться.</p>
+  <sup>ну а иногда делаю вид что разбираюсь</sup>
 </div>
 
 <h1>Языки</h1>
