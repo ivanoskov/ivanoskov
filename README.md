@@ -1,14 +1,10 @@
 <div id="header" align="center">
   <h1>Привет, я Иван 👋</h1>
   <h3>так уж вышло, что я пишу софт</h3>
-  <p></p>
-  <a href="https://t.me/J7_channel">
   <div>
-    <img height="100" src="https://cdn4.cdn-telegram.org/file/FdaSsk0VDllhU4chGCpH4PBwtgBUdPHDEODZyDLqE2OgVOqtVxR868zjYwc7GYqrSqGlqb8c-7KkJG4hJRespGe-0eMELZVHtdZNnaWM2-L3EeHJb3euemiAe9m-OQBtayCKQLu4J3Bv9aVhDiOZHKhanUPBv31aDsmFqdxjDRahm1plVmvmMYj6NlvtQAbGbTx_anWnzerVNYwxYhCOww9K1q_O4etw5AKevXevGDej-HP8zhI303IhofGIBoc6AqEh6ktIjjRHv4TBxWcyX30l8l8Cgt3HDsC0s4gPxjEiuz5Wl7EwsvYuZglTJD1GWTVKN2MswJiLMgVzGqmQkA.jpg" height="60">
-    <p><b>Уютный канал про IT</b></p>
+    <p>👉 <a href="https://t.me/J7_channel"><b>Мой уютный канал про IT</b></a></p>
     <p> </p>
   </div>
-    </a>
   <div>
     <span></span>
   </div>
